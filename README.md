@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ismo404
-- 👀 I’m interested in Minecraft Java/Bedrock Plugins
+- 👀 I’m interested in making Minecraft Java/Bedrock Plugins
 
 <!---
 Ismo404/Ismo404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
